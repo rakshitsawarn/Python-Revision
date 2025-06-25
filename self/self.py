@@ -33,3 +33,9 @@ elif(d == "Multiplication"):
 
 elif(d == "Division"):
     print (a/b)
+elif(d== "Remove Float"):
+    print (a//b)
+elif(d == "Exponential"):
+    print(a**b)
+else:
+    print("Kindly choose among Addition \n Substraction \n Multiplication \n Division \n Remove Float \n Exponential")
